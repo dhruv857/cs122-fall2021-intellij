@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/assignments/week9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/collections/Decode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/collections/MagazineRack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/exceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/exceptions/CreatingExceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/exceptions/ProductCodes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/exceptions/Propagation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/exceptions/TestData" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/exceptions/Zero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui1/Einstein" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui1/HelloJavaFX" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui1/Snowman" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui2/ArcDisplay" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui2/FahrenheitConverter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui2/ImageDisplay" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui2/PushCounter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui3/FontDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui3/QuoteOptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui3/RedOrBlue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui3/StyleOptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui4/Boxes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui4/Bullseye" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui4/Robots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui4/TransformationDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui5/AlienDirection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui5/ClickDistance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui5/RubberLines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui6/Dots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui6/JukeBox" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui6/Rocket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui7/DisplayFile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui7/EvenOdd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/gui7/PickerDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/guiPanesDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/inheritance/FoodAnalyzer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/inheritance/Messages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/inheritance/Words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/inheritance/Words2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/polymorphism/Firm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/polymorphism/SearchingAndSorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/recursion/KochSnowflake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/recursion/MazeSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/recursion/SolveTowers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classSamples/recursion/TiledImages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/classlab/week9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/projects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/projects/project1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/projects/project2" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
